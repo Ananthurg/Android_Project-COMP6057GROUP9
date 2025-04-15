@@ -1,0 +1,149 @@
+{
+	"Sessions": [
+		{
+			"session_id": 1001,
+			"sport": "basketball",
+			"gym": "Gym 1",
+			"start_time": 1742943570,
+			"participants": [
+				{
+					"first_name": "Mike",
+					"last_name": "Jordan",
+					"phone_number": "226 000 0001",
+					"member_number": 101,
+					"session_id": 1001
+				},
+				{
+					"first_name": "Tina",
+					"last_name": "Cross",
+					"phone_number": "226 000 0002",
+					"member_number": 102,
+					"session_id": 1001
+				},
+				{
+					"first_name": "Leo",
+					"last_name": "Gomez",
+					"phone_number": "226 000 0003",
+					"member_number": 103,
+					"session_id": 1001
+				}
+			]
+		},
+		{
+			"session_id": 1002,
+			"sport": "volleyball",
+			"gym": "Gym 1",
+			"start_time": 1742943570,
+			"participants": [
+				{
+					"first_name": "Sarah",
+					"last_name": "Blake",
+					"phone_number": "519 000 0001",
+					"member_number": 104,
+					"session_id": 1002
+				},
+				{
+					"first_name": "David",
+					"last_name": "Kim",
+					"phone_number": "519 000 0002",
+					"member_number": 105,
+					"session_id": 1002
+				},
+				{
+					"first_name": "Mona",
+					"last_name": "Lee",
+					"phone_number": "519 000 0003",
+					"member_number": 106,
+					"session_id": 1002
+				}
+			]
+		},
+		{
+			"session_id": 1003,
+			"sport": "badminton",
+			"gym": "Gym 2",
+			"start_time": 1742943570,
+			"participants": [
+				{
+					"first_name": "Ava",
+					"last_name": "Singh",
+					"phone_number": "519 111 0001",
+					"member_number": 107,
+					"session_id": 1003
+				},
+				{
+					"first_name": "Chris",
+					"last_name": "Evans",
+					"phone_number": "519 111 0002",
+					"member_number": 108,
+					"session_id": 1003
+				},
+				{
+					"first_name": "Emma",
+					"last_name": "Brown",
+					"phone_number": "519 111 0003",
+					"member_number": 109,
+					"session_id": 1003
+				}
+			]
+		},
+		{
+			"session_id": 1004,
+			"sport": "pickleball",
+			"gym": "Gym 2",
+			"start_time": 1742943570,
+			"participants": [
+				{
+					"first_name": "Liam",
+					"last_name": "Wilson",
+					"phone_number": "519 222 0001",
+					"member_number": 110,
+					"session_id": 1004
+				},
+				{
+					"first_name": "Olivia",
+					"last_name": "Nguyen",
+					"phone_number": "519 222 0002",
+					"member_number": 111,
+					"session_id": 1004
+				},
+				{
+					"first_name": "Noah",
+					"last_name": "Reed",
+					"phone_number": "519 222 0003",
+					"member_number": 112,
+					"session_id": 1004
+				}
+			]
+		},
+		{
+			"session_id": 1005,
+			"sport": "dodgeball",
+			"gym": "Gym 3",
+			"start_time": 1742943570,
+			"participants": [
+				{
+					"first_name": "Elena",
+					"last_name": "Stone",
+					"phone_number": "519 333 0001",
+					"member_number": 113,
+					"session_id": 1005
+				},
+				{
+					"first_name": "Jay",
+					"last_name": "Kaur",
+					"phone_number": "519 333 0002",
+					"member_number": 114,
+					"session_id": 1005
+				},
+				{
+					"first_name": "Zane",
+					"last_name": "Hunter",
+					"phone_number": "519 333 0003",
+					"member_number": 115,
+					"session_id": 1005
+				}
+			]
+		}
+	]
+}

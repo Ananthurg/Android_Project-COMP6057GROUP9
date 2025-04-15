@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sporty</string>
+    <string name="view_sessions">View Sessions</string>
+    <string name="welcome_to_sportly">Welcome to Sportly</string>
+    <string name="session_name">Session Name</string>
+    <string name="court">Court: #</string>
+    <string name="coach_name">Coach: Name</string>
+    <string name="sport">Sport</string>
+</resources>
